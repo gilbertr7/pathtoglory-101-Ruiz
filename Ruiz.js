@@ -1,1 +1,2 @@
-tarea en equipo: elegir un repositorio, demas integrantes clonar el repo en su compu, la persona encargada del repo crear un app en React, subir la app y mis compañeros bajan los cambios
+const mensaje = "Hola mundo";
+console.log(mensaje);
